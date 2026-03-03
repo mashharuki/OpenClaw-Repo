@@ -18,6 +18,12 @@ OpenClawに関する使い方を学習・検証するためのリポジトリ
 └── browser/           # ブラウザデータ
 ```
 
+## SKillの追加の仕方
+
+```bash
+npx clawhub@latest install sonoscli
+```
+
 ## 参考文献
 - [OpenClaw チートシート｜これだけ覚えればOKなコマンド・設定・ワークフロー集](https://qiita.com/akira_papa_AI/items/f3d52c314329127b3bba)
 - [OpenClawの"魂"が盗まれる？ — AIエージェント時代のセキュリティ対策
@@ -26,3 +32,4 @@ OpenClawに関する使い方を学習・検証するためのリポジトリ
 - [Agent Skill マーケットプレイス](https://skillsmp.com/ja)
 - [GitHub heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills/blob/main/README.ja.md)
 - [【効率爆UP】Agent Skillsの探し方！おすすめ公開サイト3選と導入手順](https://note.com/masa_wunder/n/n227040a2e1c6)
+- [ClawHub](https://clawhub.ai/)
